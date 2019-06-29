@@ -1,5 +1,5 @@
 # Goodreads_Genre_Predictor
- CSP_571_Project 
+ 
 
 This project is a text classification project. The idea of the project is to classify the genres of books based on the text summaries of the book provided by the user. The classification is going to be a multi class classification. The project is divided into 4 phases,
 	
@@ -7,13 +7,8 @@ This project is a text classification project. The idea of the project is to cla
 	- Data Preprocessing
 	- Text Classification Modeling
 	- Building a User Interface to use the classifier.
-
-
-Team Members : 
-   	-  Sharath Gangalapadu.
-     - Megha Lokanadham
 	 
-Project Proposal: 
+Project summary: 
 
    -The objective of the project is to classify books based on genre using text summaries from books belonging to genres such as fiction, drama, romance, adventure etc. 
 	- The preliminary data source we plan on using is goodreads.com.
@@ -40,7 +35,7 @@ Project Plan: The plan to proceed about doing the project is as follows,
 		
 
 	- User Interface:
-		The trained classifier will be used with a simple user interface, wherein the user input a text summary of a book he wishes to find the genre of and provide the 	output as the genre the model predicts.
+		The trained classifier will be used with a simple user interface, wherein the user input a text summary of a book he wishes to find the genre of and provide the output as the genre the model predicts.
 	
 
 
