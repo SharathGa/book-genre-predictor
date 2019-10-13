@@ -1,4 +1,4 @@
-# Goodreads_Genre_Predictor
+# Goodreads Genre Predictor
  
 
 This project is a text classification project. The idea of the project is to classify the genres of books based on the text summaries of the book provided by the user. The classification is going to be a multi class classification. The project is divided into 4 phases,
